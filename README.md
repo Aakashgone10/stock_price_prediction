@@ -39,7 +39,7 @@ This project involves predicting the stock prices of Apple Inc. using historical
 
 ## Results
 
-- The model that performed best was the **[Best Performing Model Name]**, achieving an accuracy score of **[Score]%**.
+- The model that performed best was the **Lasso Regression**, achieving an accuracy score of **96.3%**.
 
 ## Conclusion
 
